@@ -1,0 +1,69 @@
+2019-08-30 11:19:42 INFO  Log:40 - The AddAuctionNotice.properties files are read from Locators directory
+2019-08-30 11:19:42 INFO  Log:40 - The AddBidderVesselDetails.properties files are read from Locators directory
+2019-08-30 11:19:42 INFO  Log:40 - The Adminhome.properties files are read from Locators directory
+2019-08-30 11:19:42 INFO  Log:40 - The AuctionReport.properties files are read from Locators directory
+2019-08-30 11:19:42 INFO  Log:40 - The Bidderhome.properties files are read from Locators directory
+2019-08-30 11:19:42 INFO  Log:40 - The ChangeAucStatus.properties files are read from Locators directory
+2019-08-30 11:19:42 INFO  Log:40 - The CheckAuctionNotice.properties files are read from Locators directory
+2019-08-30 11:19:42 INFO  Log:40 - The ConfirmAuctionNotice.properties files are read from Locators directory
+2019-08-30 11:19:42 INFO  Log:40 - The Liveauction.properties files are read from Locators directory
+2019-08-30 11:19:42 INFO  Log:40 - The Login.properties files are read from Locators directory
+2019-08-30 11:19:42 INFO  Log:40 - The ReleaseClosedAuction.properties files are read from Locators directory
+2019-08-30 11:19:42 INFO  Log:40 - The StaticNote.properties files are read from Locators directory
+2019-08-30 11:19:42 INFO  Log:40 - The UploadAuction.properties files are read from Locators directory
+2019-08-30 11:19:42 INFO  Log:40 - The UploadAuctionNotice.properties files are read from Locators directory
+2019-08-30 11:19:42 INFO  Log:40 - The VesselDetails.properties files are read from Locators directory
+2019-08-30 11:19:42 INFO  Log:40 - The AddAuctionData.properties files are read from TestData directory
+2019-08-30 11:19:42 INFO  Log:40 - The AuctionData.properties files are read from TestData directory
+2019-08-30 11:19:42 INFO  Log:40 - The Logindata.properties files are read from TestData directory
+2019-08-30 11:19:42 INFO  Log:40 - The VesselData.properties files are read from TestData directory
+2019-08-30 11:19:42 INFO  Log:40 - ******************************************************************
+2019-08-30 11:19:42 INFO  Log:40 - The test should be performed at : Chrome Browser. 
+2019-08-30 11:19:42 INFO  Log:40 - ******************************************************************
+2019-08-30 11:19:51 INFO  Log:40 - *********************************************************************
+2019-08-30 11:19:51 INFO  Log:40 - Navigating to the URL : https://newuat.buyjunction.in/
+2019-08-30 11:19:51 INFO  Log:40 - *********************************************************************
+2019-08-30 11:19:52 INFO  Log:24 - navigate_To_Live_Bidding_Page
+2019-08-30 11:19:54 INFO  Log:40 - We are going to kickout other user
+2019-08-30 11:19:58 INFO  Log:40 - Bid(s) element found and hovered
+2019-08-30 11:20:00 INFO  Log:40 - Yeppeee.....Live auction button is displaying....let's click
+2019-08-30 11:20:20 ERROR Log:52 - unexpected alert open: {Alert text : This is your first bid on- Automation_Test Bidding.Are you sure you want to bid this price? Press OK to Confirm, Cancel to Edit your Bid.}
+  (Session info: chrome=76.0.3809.132): This is your first bid on- Automation_Test Bidding.Are you sure you want to bid this price? Press OK to Confirm, Cancel to Edit your Bid.
+Build info: version: '3.141.5', revision: 'd54ebd709a', time: '2018-11-06T11:42:16'
+System info: host: 'MJLT-1363', ip: '172.16.16.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.132, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\SOMNAT~1.CHA\AppDa...}, goog:chromeOptions: {debuggerAddress: localhost:55131}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 003a6cad15fb74202dc3bce85f9c54c3
+*** Element info: {Using=xpath, value=//a[contains(text(),'Sign Out')]}
+2019-08-30 11:20:28 ERROR Log:52 - unexpected alert open: {Alert text : This is your first bid on- Automation_Test Bidding.Are you sure you want to bid this price? Press OK to Confirm, Cancel to Edit your Bid.}
+  (Session info: chrome=76.0.3809.132): This is your first bid on- Automation_Test Bidding.Are you sure you want to bid this price? Press OK to Confirm, Cancel to Edit your Bid.
+Build info: version: '3.141.5', revision: 'd54ebd709a', time: '2018-11-06T11:42:16'
+System info: host: 'MJLT-1363', ip: '172.16.16.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.132, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\SOMNAT~1.CHA\AppDa...}, goog:chromeOptions: {debuggerAddress: localhost:55131}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 003a6cad15fb74202dc3bce85f9c54c3
+*** Element info: {Using=xpath, value=//a[contains(text(),'Sign Out')]}
+2019-08-30 11:20:35 ERROR Log:52 - unexpected alert open: {Alert text : This is your first bid on- Automation_Test Bidding.Are you sure you want to bid this price? Press OK to Confirm, Cancel to Edit your Bid.}
+  (Session info: chrome=76.0.3809.132): This is your first bid on- Automation_Test Bidding.Are you sure you want to bid this price? Press OK to Confirm, Cancel to Edit your Bid.
+Build info: version: '3.141.5', revision: 'd54ebd709a', time: '2018-11-06T11:42:16'
+System info: host: 'MJLT-1363', ip: '172.16.16.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.132, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\SOMNAT~1.CHA\AppDa...}, goog:chromeOptions: {debuggerAddress: localhost:55131}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 003a6cad15fb74202dc3bce85f9c54c3
+*** Element info: {Using=xpath, value=//a[contains(text(),'Sign Out')]}
+2019-08-30 11:20:42 ERROR Log:52 - unexpected alert open: {Alert text : This is your first bid on- Automation_Test Bidding.Are you sure you want to bid this price? Press OK to Confirm, Cancel to Edit your Bid.}
+  (Session info: chrome=76.0.3809.132): This is your first bid on- Automation_Test Bidding.Are you sure you want to bid this price? Press OK to Confirm, Cancel to Edit your Bid.
+Build info: version: '3.141.5', revision: 'd54ebd709a', time: '2018-11-06T11:42:16'
+System info: host: 'MJLT-1363', ip: '172.16.16.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.132, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\SOMNAT~1.CHA\AppDa...}, goog:chromeOptions: {debuggerAddress: localhost:55131}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 003a6cad15fb74202dc3bce85f9c54c3
+*** Element info: {Using=xpath, value=//a[contains(text(),'Sign Out')]}
+2019-08-30 11:20:49 ERROR Log:52 - unexpected alert open: {Alert text : This is your first bid on- Automation_Test Bidding.Are you sure you want to bid this price? Press OK to Confirm, Cancel to Edit your Bid.}
+  (Session info: chrome=76.0.3809.132): This is your first bid on- Automation_Test Bidding.Are you sure you want to bid this price? Press OK to Confirm, Cancel to Edit your Bid.
+Build info: version: '3.141.5', revision: 'd54ebd709a', time: '2018-11-06T11:42:16'
+System info: host: 'MJLT-1363', ip: '172.16.16.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.132, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\SOMNAT~1.CHA\AppDa...}, goog:chromeOptions: {debuggerAddress: localhost:55131}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 003a6cad15fb74202dc3bce85f9c54c3
+*** Element info: {Using=xpath, value=//a[contains(text(),'Sign Out')]}

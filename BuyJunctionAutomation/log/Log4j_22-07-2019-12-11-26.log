@@ -1,0 +1,157 @@
+2019-07-22 12:11:27 INFO  Log:40 - The AddAuctionNotice.properties files are read from Locators directory
+2019-07-22 12:11:27 INFO  Log:40 - The AddBidderVesselDetails.properties files are read from Locators directory
+2019-07-22 12:11:27 INFO  Log:40 - The Adminhome.properties files are read from Locators directory
+2019-07-22 12:11:27 INFO  Log:40 - The Bidderhome.properties files are read from Locators directory
+2019-07-22 12:11:27 INFO  Log:40 - The ChangeAucStatus.properties files are read from Locators directory
+2019-07-22 12:11:27 INFO  Log:40 - The CheckAuctionNotice.properties files are read from Locators directory
+2019-07-22 12:11:27 INFO  Log:40 - The ConfirmAuctionNotice.properties files are read from Locators directory
+2019-07-22 12:11:27 INFO  Log:40 - The Liveauction.properties files are read from Locators directory
+2019-07-22 12:11:27 INFO  Log:40 - The Login.properties files are read from Locators directory
+2019-07-22 12:11:27 INFO  Log:40 - The ReleaseClosedAuction.properties files are read from Locators directory
+2019-07-22 12:11:27 INFO  Log:40 - The StaticNote.properties files are read from Locators directory
+2019-07-22 12:11:27 INFO  Log:40 - The UploadAuction.properties files are read from Locators directory
+2019-07-22 12:11:27 INFO  Log:40 - The UploadAuctionNotice.properties files are read from Locators directory
+2019-07-22 12:11:27 INFO  Log:40 - The VesselDetails.properties files are read from Locators directory
+2019-07-22 12:11:27 INFO  Log:40 - The AddAuctionData.properties files are read from TestData directory
+2019-07-22 12:11:27 INFO  Log:40 - The AuctionData.properties files are read from TestData directory
+2019-07-22 12:11:27 INFO  Log:40 - The Logindata.properties files are read from TestData directory
+2019-07-22 12:11:27 INFO  Log:40 - The VesselData.properties files are read from TestData directory
+2019-07-22 12:11:27 INFO  Log:40 - ******************************************************************
+2019-07-22 12:11:27 INFO  Log:40 - The test should be performed at : Chrome Browser. 
+2019-07-22 12:11:27 INFO  Log:40 - ******************************************************************
+2019-07-22 12:11:59 INFO  Log:40 - *********************************************************************
+2019-07-22 12:11:59 INFO  Log:40 - Navigating to the URL : https://newuat.buyjunction.in/
+2019-07-22 12:11:59 INFO  Log:40 - *********************************************************************
+2019-07-22 12:12:04 INFO  Log:24 - verify_The_Auction_Notice_Creation
+2019-07-22 12:12:12 INFO  Log:40 - We are going to kickout other user
+2019-07-22 12:12:33 INFO  Log:40 - SUCCESSFULLY EXECUTED
+2019-07-22 12:14:06 INFO  Log:40 - The vessel details is successfully added
+2019-07-22 12:14:48 INFO  Log:40 - no such element: Unable to locate element: {"method":"xpath","selector":"//p[contains(text(),'Auction Notice not ready for submission')]"}
+  (Session info: chrome=75.0.3770.142)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.5', revision: 'd54ebd709a', time: '2018-11-06T11:42:16'
+System info: host: 'MJLT-1363', ip: '172.16.16.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\SOMNAT~1.CHA\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:59623}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.142, webStorageEnabled: true}
+Session ID: 02755e8aec5363f300dba035940a37f6
+*** Element info: {Using=xpath, value=//p[contains(text(),'Auction Notice not ready for submission')]}
+2019-07-22 12:15:16 INFO  Log:24 - verify_Auction_Notice_Is_Present_for_BidderOne
+2019-07-22 12:15:19 INFO  Log:40 - We are going to kickout other user
+2019-07-22 12:15:21 INFO  Log:40 - Terms & Condition element found and hovered
+2019-07-22 12:15:31 INFO  Log:40 - Radio button Selected
+2019-07-22 12:15:56 INFO  Log:40 - First alert clicked
+2019-07-22 12:15:57 INFO  Log:40 - Second alert clicked
+2019-07-22 12:16:02 INFO  Log:40 - Vessel details browser closed
+2019-07-22 12:16:02 INFO  Log:40 - CheckBox Selected
+2019-07-22 12:16:03 INFO  Log:40 - Submit button Selected
+2019-07-22 12:16:03 ERROR Log:52 - element click intercepted: Element <a href="/EPSWeb/security/signOutAction.do" style="color:#FFFFFF">...</a> is not clickable at point (825, 16). Other element would receive the click: <div id="myslidemenu" class="jqueryslidemenu">...</div>
+  (Session info: chrome=75.0.3770.142)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.5', revision: 'd54ebd709a', time: '2018-11-06T11:42:16'
+System info: host: 'MJLT-1363', ip: '172.16.16.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\SOMNAT~1.CHA\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:59623}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.142, webStorageEnabled: true}
+Session ID: 02755e8aec5363f300dba035940a37f6
+2019-07-22 12:16:03 INFO  Log:24 - verify_Auction_Notice_Is_Present_for_BidderTwo
+2019-07-22 12:16:06 ERROR Log:52 - no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='authCode']"}
+  (Session info: chrome=75.0.3770.142)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.5', revision: 'd54ebd709a', time: '2018-11-06T11:42:16'
+System info: host: 'MJLT-1363', ip: '172.16.16.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\SOMNAT~1.CHA\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:59623}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.142, webStorageEnabled: true}
+Session ID: 02755e8aec5363f300dba035940a37f6
+*** Element info: {Using=xpath, value=//input[@id='authCode']}
+2019-07-22 12:16:08 INFO  Log:24 - verify_The_Live_Auction_Multi_Seal_Bid_User1
+2019-07-22 12:16:12 INFO  Log:40 - We are in AdminHome page
+2019-07-22 12:16:24 INFO  Log:40 - Bid(s) element found and hovered
+2019-07-22 12:16:26 INFO  Log:40 - Yeppeee.....Live auction button is displaying....let's click
+2019-07-22 12:16:38 INFO  Log:40 - unexpected alert open: {Alert text : You have to select minimum one auction}
+  (Session info: chrome=75.0.3770.142)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds: null
+Build info: version: '3.141.5', revision: 'd54ebd709a', time: '2018-11-06T11:42:16'
+System info: host: 'MJLT-1363', ip: '172.16.16.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\SOMNAT~1.CHA\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:59623}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.142, webStorageEnabled: true}
+Session ID: 02755e8aec5363f300dba035940a37f6
+*** Element info: {Using=xpath, value=//input[@type='checkbox'][@name='auctionCode']}
+2019-07-22 12:16:38 INFO  Log:24 - verify_The_Live_Auction_Multi_Seal_Bid_User2
+2019-07-22 12:16:39 ERROR Log:52 - unexpected alert open: {Alert text : You have to select minimum one auction}
+  (Session info: chrome=75.0.3770.142)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds: null
+Build info: version: '3.141.5', revision: 'd54ebd709a', time: '2018-11-06T11:42:16'
+System info: host: 'MJLT-1363', ip: '172.16.16.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\SOMNAT~1.CHA\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:59623}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.142, webStorageEnabled: true}
+Session ID: 02755e8aec5363f300dba035940a37f6
+*** Element info: {Using=xpath, value=//input[@id='authCode']}
+2019-07-22 12:16:39 INFO  Log:24 - verify_The_Live_Auction_General_R_A_User1
+2019-07-22 12:16:40 ERROR Log:52 - unexpected alert open: {Alert text : You have to select minimum one auction}
+  (Session info: chrome=75.0.3770.142)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds: null
+Build info: version: '3.141.5', revision: 'd54ebd709a', time: '2018-11-06T11:42:16'
+System info: host: 'MJLT-1363', ip: '172.16.16.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\SOMNAT~1.CHA\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:59623}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.142, webStorageEnabled: true}
+Session ID: 02755e8aec5363f300dba035940a37f6
+*** Element info: {Using=xpath, value=//input[@id='authCode']}
+2019-07-22 12:16:40 INFO  Log:24 - verify_The_Live_Auction_General_R_A_User2
+2019-07-22 12:16:41 ERROR Log:52 - unexpected alert open: {Alert text : You have to select minimum one auction}
+  (Session info: chrome=75.0.3770.142)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds: null
+Build info: version: '3.141.5', revision: 'd54ebd709a', time: '2018-11-06T11:42:16'
+System info: host: 'MJLT-1363', ip: '172.16.16.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\SOMNAT~1.CHA\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:59623}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.142, webStorageEnabled: true}
+Session ID: 02755e8aec5363f300dba035940a37f6
+*** Element info: {Using=xpath, value=//input[@id='authCode']}
+2019-07-22 12:16:41 ERROR Log:52 - unexpected alert open: {Alert text : You have to select minimum one auction}
+  (Session info: chrome=75.0.3770.142)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds: null
+Build info: version: '3.141.5', revision: 'd54ebd709a', time: '2018-11-06T11:42:16'
+System info: host: 'MJLT-1363', ip: '172.16.16.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\SOMNAT~1.CHA\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:59623}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.142, webStorageEnabled: true}
+Session ID: 02755e8aec5363f300dba035940a37f6
+*** Element info: {Using=xpath, value=//a[contains(text(),'Sign Out')]}
+2019-07-22 12:16:41 INFO  Log:24 - check_The_Release
+2019-07-22 12:16:42 INFO  Log:40 - unexpected alert open: {Alert text : You have to select minimum one auction}
+  (Session info: chrome=75.0.3770.142)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds: null
+Build info: version: '3.141.5', revision: 'd54ebd709a', time: '2018-11-06T11:42:16'
+System info: host: 'MJLT-1363', ip: '172.16.16.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\SOMNAT~1.CHA\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:59623}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.142, webStorageEnabled: true}
+Session ID: 02755e8aec5363f300dba035940a37f6
+*** Element info: {Using=xpath, value=//input[@id='authCode']}
+2019-07-22 12:16:42 ERROR Log:52 - unexpected alert open: {Alert text : You have to select minimum one auction}
+  (Session info: chrome=75.0.3770.142)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds: null
+Build info: version: '3.141.5', revision: 'd54ebd709a', time: '2018-11-06T11:42:16'
+System info: host: 'MJLT-1363', ip: '172.16.16.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\SOMNAT~1.CHA\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:59623}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.142, webStorageEnabled: true}
+Session ID: 02755e8aec5363f300dba035940a37f6
+*** Element info: {Using=xpath, value=//a[contains(text(),'Sign Out')]}
+2019-07-22 12:16:44 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2019-07-22 12:16:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2019-07-22 12:16:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-07-22 12:16:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-07-22 12:16:44 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/somnath.chatterjee1/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-07-22 12:16:44 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2019-07-22 12:16:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2019-07-22 12:16:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-07-22 12:16:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-07-22 12:16:44 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/somnath.chatterjee1/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"

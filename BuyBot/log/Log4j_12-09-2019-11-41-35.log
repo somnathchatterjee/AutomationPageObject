@@ -1,0 +1,44 @@
+2019-09-12 11:41:35 INFO  Log:40 - The Adminhome.properties files are read from Locators directory
+2019-09-12 11:41:35 INFO  Log:40 - The Bidderhome.properties files are read from Locators directory
+2019-09-12 11:41:35 INFO  Log:40 - The Liveauction.properties files are read from Locators directory
+2019-09-12 11:41:35 INFO  Log:40 - The Login.properties files are read from Locators directory
+2019-09-12 11:41:35 INFO  Log:40 - The AddAuctionData.properties files are read from TestData directory
+2019-09-12 11:41:35 INFO  Log:40 - The AuctionData.properties files are read from TestData directory
+2019-09-12 11:41:35 INFO  Log:40 - The Logindata.properties files are read from TestData directory
+2019-09-12 11:41:35 INFO  Log:40 - ******************************************************************
+2019-09-12 11:41:35 INFO  Log:40 - The test should be performed at : Chrome Browser. 
+2019-09-12 11:41:35 INFO  Log:40 - ******************************************************************
+2019-09-12 11:41:43 INFO  Log:40 - *********************************************************************
+2019-09-12 11:41:43 INFO  Log:40 - Navigating to the URL : https://newuat.buyjunction.in/
+2019-09-12 11:41:43 INFO  Log:40 - *********************************************************************
+2019-09-12 11:41:45 INFO  Log:24 - navigate_To_Live_Bidding_Page
+2019-09-12 11:41:50 INFO  Log:40 - We are in AdminHome page
+2019-09-12 11:41:59 ERROR Log:52 - java.lang.reflect.InvocationTargetException
+Build info: version: '3.141.5', revision: 'd54ebd709a', time: '2018-11-06T11:42:16'
+System info: host: 'MJLT-1363', ip: '172.16.16.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_202'
+Driver info: driver.version: RemoteWebDriver
+2019-09-12 11:42:06 INFO  Log:40 - chrome not reachable
+  (Session info: chrome=77.0.3865.75)
+Build info: version: '3.141.5', revision: 'd54ebd709a', time: '2018-11-06T11:42:16'
+System info: host: 'MJLT-1363', ip: '172.16.16.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 77.0.3865.75, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\SOMNAT~1.CHA\AppDa...}, goog:chromeOptions: {debuggerAddress: localhost:58129}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: bbecc05d0efd2f168657e7d2903d2775
+2019-09-12 11:42:12 ERROR Log:52 - chrome not reachable
+  (Session info: chrome=77.0.3865.75)
+Build info: version: '3.141.5', revision: 'd54ebd709a', time: '2018-11-06T11:42:16'
+System info: host: 'MJLT-1363', ip: '172.16.16.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 77.0.3865.75, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\SOMNAT~1.CHA\AppDa...}, goog:chromeOptions: {debuggerAddress: localhost:58129}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: bbecc05d0efd2f168657e7d2903d2775
+*** Element info: {Using=xpath, value=//a[contains(text(),'Sign Out')]}
+2019-09-12 11:42:15 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2019-09-12 11:42:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2019-09-12 11:42:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-12 11:42:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-12 11:42:15 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/somnath.chatterjee1/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-12 11:42:15 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2019-09-12 11:42:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2019-09-12 11:42:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-12 11:42:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-12 11:42:15 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/somnath.chatterjee1/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"

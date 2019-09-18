@@ -1,0 +1,81 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+<title>TestNG Report</title>
+<style type="text/css">table {margin-bottom:10px;border-collapse:collapse;empty-cells:show}th,td {border:1px solid #009;padding:.25em .5em}th {vertical-align:bottom}td {vertical-align:top}table a {font-weight:bold}.stripe td {background-color: #E6EBF9}.num {text-align:right}.passedodd td {background-color: #3F3}.passedeven td {background-color: #0A0}.skippedodd td {background-color: #DDD}.skippedeven td {background-color: #CCC}.failedodd td,.attn {background-color: #F33}.failedeven td,.stripe .attn {background-color: #D00}.stacktrace {white-space:pre;font-family:monospace}.totop {font-size:85%;text-align:center;border-bottom:2px solid #000}.invisible {display:none}</style>
+</head>
+<body>
+<table>
+<tr><th>Test</th><th># Passed</th><th># Skipped</th><th># Failed</th><th>Time (ms)</th><th>Included Groups</th><th>Excluded Groups</th></tr>
+<tr><th colspan="7">Finance Junction Test Report</th></tr>
+<tr><td><a href="#t0">Test Organization</a></td><td class="num">5</td><td class="num">0</td><td class="num">0</td><td class="num">34,171</td><td></td><td></td></tr>
+<tr class="stripe"><td><a href="#t1">The Branch</a></td><td class="num">4</td><td class="num">0</td><td class="num">0</td><td class="num">40,133</td><td></td><td></td></tr>
+<tr><td><a href="#t2">Regression Testing</a></td><td class="num">8</td><td class="num">0</td><td class="num">0</td><td class="num">55,633</td><td></td><td></td></tr>
+<tr class="stripe"><td><a href="#t3">Integration Testing</a></td><td class="num">2</td><td class="num">0</td><td class="num attn">2</td><td class="num">59,547</td><td></td><td></td></tr>
+<tr><th>Total</th><th class="num">19</th><th class="num">0</th><th class="num attn">2</th><th class="num">189,484</th><th colspan="2"></th></tr>
+</table>
+<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">Finance Junction Test Report</th></tr></tbody><tbody id="t0"><tr><th colspan="4">Test Organization &#8212; passed</th></tr><tr class="passedeven"><td rowspan="5">com.stepDefination.VerifyTheOrganization</td><td><a href="#m0">openAddOgranizationPage</a></td><td rowspan="1">1556619682940</td><td rowspan="1">3244</td></tr><tr class="passedeven"><td><a href="#m1">openViewOrganization</a></td><td rowspan="1">1556619692370</td><td rowspan="1">1047</td></tr><tr class="passedeven"><td><a href="#m2">verifyTheAddOrganization</a></td><td rowspan="1">1556619686237</td><td rowspan="1">6133</td></tr><tr class="passedeven"><td><a href="#m3">verifyTheAddedOrganization</a></td><td rowspan="1">1556619693417</td><td rowspan="1">15941</td></tr><tr class="passedeven"><td><a href="#m4">verifyTheBusinessUnitIsDisplayed</a></td><td rowspan="1">1556619686186</td><td rowspan="1">47</td></tr></tbody>
+<tbody id="t1"><tr><th colspan="4">The Branch &#8212; passed</th></tr><tr class="passedeven"><td rowspan="4">com.stepDefination.VerifyTheBranch</td><td><a href="#m5">openAddBranchPage</a></td><td rowspan="1">1556619711662</td><td rowspan="1">2600</td></tr><tr class="passedeven"><td><a href="#m6">openViewBranchPage</a></td><td rowspan="1">1556619728483</td><td rowspan="1">3647</td></tr><tr class="passedeven"><td><a href="#m7">verifyAddBranch</a></td><td rowspan="1">1556619714262</td><td rowspan="1">14221</td></tr><tr class="passedeven"><td><a href="#m8">verifyTheAddedBranch</a></td><td rowspan="1">1556619732131</td><td rowspan="1">11884</td></tr></tbody>
+<tbody id="t2"><tr><th colspan="4">Regression Testing &#8212; passed</th></tr><tr class="passedeven"><td rowspan="4">com.stepDefination.VerifyTheReportAndHistory</td><td><a href="#m9">navigateToReportDetails</a></td><td rowspan="1">1556619782549</td><td rowspan="1">466</td></tr><tr class="passedeven"><td><a href="#m10">navigateToReportHistory</a></td><td rowspan="1">1556619787869</td><td rowspan="1">466</td></tr><tr class="passedeven"><td><a href="#m11">verifyTheReportDetails</a></td><td rowspan="1">1556619783016</td><td rowspan="1">4852</td></tr><tr class="passedeven"><td><a href="#m12">verifyTheReportHistory</a></td><td rowspan="1">1556619788336</td><td rowspan="1">11071</td></tr><tr class="passedodd"><td rowspan="4">com.stepDefination.VerifyTheUser</td><td><a href="#m13">openAddUserPage</a></td><td rowspan="1">1556619756707</td><td rowspan="1">2987</td></tr><tr class="passedodd"><td><a href="#m14">openViewUserPage</a></td><td rowspan="1">1556619771150</td><td rowspan="1">2606</td></tr><tr class="passedodd"><td><a href="#m15">verifyAddUser</a></td><td rowspan="1">1556619759694</td><td rowspan="1">11456</td></tr><tr class="passedodd"><td><a href="#m16">verifyTheAddedUser</a></td><td rowspan="1">1556619773756</td><td rowspan="1">8793</td></tr></tbody>
+<tbody id="t3"><tr><th colspan="4">Integration Testing &#8212; failed</th></tr><tr class="failedeven"><td rowspan="2">com.stepDefination.VerifyTheFinanceRequestValidationOfEPSUser</td><td><a href="#m17">verifyEPSlogin</a></td><td rowspan="1">1556619812749</td><td rowspan="1">44049</td></tr><tr class="failedeven"><td><a href="#m18">verifyTheEPSUserDashBoardAtFJ</a></td><td rowspan="1">1556619858886</td><td rowspan="1">2033</td></tr><tr><th colspan="4">Integration Testing &#8212; passed</th></tr><tr class="passedeven"><td rowspan="2">com.stepDefination.VerifyTheFinanceRequestValidationOfEPSUser</td><td><a href="#m19">ModifyTheLatestFinanceRequest</a></td><td rowspan="1">1556619860921</td><td rowspan="1">2049</td></tr><tr class="passedeven"><td><a href="#m20">verifyTheEPSDashboard</a></td><td rowspan="1">1556619856819</td><td rowspan="1">2067</td></tr></tbody>
+</table>
+<h2>Test Organization</h2><h3 id="m0">com.stepDefination.VerifyTheOrganization#openAddOgranizationPage</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m1">com.stepDefination.VerifyTheOrganization#openViewOrganization</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m2">com.stepDefination.VerifyTheOrganization#verifyTheAddOrganization</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m3">com.stepDefination.VerifyTheOrganization#verifyTheAddedOrganization</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m4">com.stepDefination.VerifyTheOrganization#verifyTheBusinessUnitIsDisplayed</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h2>The Branch</h2><h3 id="m5">com.stepDefination.VerifyTheBranch#openAddBranchPage</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m6">com.stepDefination.VerifyTheBranch#openViewBranchPage</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m7">com.stepDefination.VerifyTheBranch#verifyAddBranch</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m8">com.stepDefination.VerifyTheBranch#verifyTheAddedBranch</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h2>Regression Testing</h2><h3 id="m9">com.stepDefination.VerifyTheReportAndHistory#navigateToReportDetails</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m10">com.stepDefination.VerifyTheReportAndHistory#navigateToReportHistory</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m11">com.stepDefination.VerifyTheReportAndHistory#verifyTheReportDetails</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m12">com.stepDefination.VerifyTheReportAndHistory#verifyTheReportHistory</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m13">com.stepDefination.VerifyTheUser#openAddUserPage</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m14">com.stepDefination.VerifyTheUser#openViewUserPage</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m15">com.stepDefination.VerifyTheUser#verifyAddUser</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m16">com.stepDefination.VerifyTheUser#verifyTheAddedUser</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h2>Integration Testing</h2><h3 id="m17">com.stepDefination.VerifyTheFinanceRequestValidationOfEPSUser#verifyEPSlogin</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">org.openqa.selenium.NoSuchElementException: Cannot locate element with text: CHIPS
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: &apos;3.141.5&apos;, revision: &apos;d54ebd709a&apos;, time: &apos;2018-11-06T11:42:16&apos;
+System info: host: &apos;MJLT-1363&apos;, ip: &apos;172.16.16.163&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_202&apos;
+Driver info: driver.version: unknown
+	at org.openqa.selenium.support.ui.Select.selectByVisibleText(Select.java:141)
+	at com.pageObject.EpsUser.epsSelectorganization(EpsUser.java:107)
+	at com.stepDefination.VerifyTheFinanceRequestValidationOfEPSUser.verifyEPSlogin(VerifyTheFinanceRequestValidationOfEPSUser.java:25)
+... Removed 24 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m18">com.stepDefination.VerifyTheFinanceRequestValidationOfEPSUser#verifyTheEPSUserDashBoardAtFJ</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//a[@class=&apos;dropdown-toggle&apos;][contains(text(),&apos;Finance Request&apos;)]&quot;}
+  (Session info: chrome=74.0.3729.108)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: &apos;3.141.5&apos;, revision: &apos;d54ebd709a&apos;, time: &apos;2018-11-06T11:42:16&apos;
+System info: host: &apos;MJLT-1363&apos;, ip: &apos;172.16.16.163&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_202&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\SOMNAT~1.CHA\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:52834}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 74.0.3729.108, webStorageEnabled: true}
+Session ID: e4ef7591507a5c72ad6a7cc88939c2a4
+*** Element info: {Using=xpath, value=//a[@class=&apos;dropdown-toggle&apos;][contains(text(),&apos;Finance Request&apos;)]}
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
+	at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at com.sun.proxy.$Proxy7.click(Unknown Source)
+	at com.pageObject.EpsUser.addFinanceReqest(EpsUser.java:134)
+	at com.stepDefination.VerifyTheFinanceRequestValidationOfEPSUser.verifyTheEPSUserDashBoardAtFJ(VerifyTheFinanceRequestValidationOfEPSUser.java:36)
+... Removed 28 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m19">com.stepDefination.VerifyTheFinanceRequestValidationOfEPSUser#ModifyTheLatestFinanceRequest</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m20">com.stepDefination.VerifyTheFinanceRequestValidationOfEPSUser#verifyTheEPSDashboard</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+</body>
+</html>

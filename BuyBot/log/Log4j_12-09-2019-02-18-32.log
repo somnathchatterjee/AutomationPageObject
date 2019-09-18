@@ -1,0 +1,45 @@
+2019-09-12 14:18:32 INFO  Log:40 - The Adminhome.properties files are read from Locators directory
+2019-09-12 14:18:32 INFO  Log:40 - The Bidderhome.properties files are read from Locators directory
+2019-09-12 14:18:32 INFO  Log:40 - The Liveauction.properties files are read from Locators directory
+2019-09-12 14:18:32 INFO  Log:40 - The Login.properties files are read from Locators directory
+2019-09-12 14:18:32 INFO  Log:40 - The AddAuctionData.properties files are read from TestData directory
+2019-09-12 14:18:32 INFO  Log:40 - The AuctionData.properties files are read from TestData directory
+2019-09-12 14:18:32 INFO  Log:40 - The Logindata.properties files are read from TestData directory
+2019-09-12 14:18:32 INFO  Log:40 - ******************************************************************
+2019-09-12 14:18:32 INFO  Log:40 - The test should be performed at : Chrome Browser. 
+2019-09-12 14:18:32 INFO  Log:40 - ******************************************************************
+2019-09-12 14:18:41 INFO  Log:40 - *********************************************************************
+2019-09-12 14:18:41 INFO  Log:40 - Navigating to the URL : https://newuat.buyjunction.in/
+2019-09-12 14:18:41 INFO  Log:40 - *********************************************************************
+2019-09-12 14:18:42 INFO  Log:24 - navigate_To_Live_Bidding_Page
+2019-09-12 14:18:44 INFO  Log:40 - We are going to kickout other user
+2019-09-12 14:18:50 ERROR Log:52 - java.lang.reflect.InvocationTargetException
+Build info: version: '3.141.5', revision: 'd54ebd709a', time: '2018-11-06T11:42:16'
+System info: host: 'MJLT-1363', ip: '172.16.16.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_202'
+Driver info: driver.version: RemoteWebDriver
+2019-09-12 14:18:50 INFO  Log:40 - no such alert
+  (Session info: chrome=77.0.3865.75)
+Build info: version: '3.141.5', revision: 'd54ebd709a', time: '2018-11-06T11:42:16'
+System info: host: 'MJLT-1363', ip: '172.16.16.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 77.0.3865.75, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\SOMNAT~1.CHA\AppDa...}, goog:chromeOptions: {debuggerAddress: localhost:55830}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 60739e14b22a3dd77e75a837081afde0
+2019-09-12 14:18:52 ERROR Log:52 - no such element: Unable to locate element: {"method":"xpath","selector":"//a[contains(text(),'Sign Out')]"}
+  (Session info: chrome=77.0.3865.75)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.5', revision: 'd54ebd709a', time: '2018-11-06T11:42:16'
+System info: host: 'MJLT-1363', ip: '172.16.16.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 77.0.3865.75, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\SOMNAT~1.CHA\AppDa...}, goog:chromeOptions: {debuggerAddress: localhost:55830}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 60739e14b22a3dd77e75a837081afde0
+*** Element info: {Using=xpath, value=//a[contains(text(),'Sign Out')]}
+2019-09-12 14:18:56 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2019-09-12 14:18:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2019-09-12 14:18:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-12 14:18:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-12 14:18:56 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/somnath.chatterjee1/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-12 14:18:56 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2019-09-12 14:18:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2019-09-12 14:18:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-12 14:18:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-12 14:18:56 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/somnath.chatterjee1/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"

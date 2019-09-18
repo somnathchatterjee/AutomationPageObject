@@ -1,0 +1,22 @@
+2019-07-08 16:26:35 INFO  Log:40 - The AddAuctionNotice.properties files are read from Locators directory
+2019-07-08 16:26:35 INFO  Log:40 - The Adminhome.properties files are read from Locators directory
+2019-07-08 16:26:35 INFO  Log:40 - The Bidderhome.properties files are read from Locators directory
+2019-07-08 16:26:35 INFO  Log:40 - The ConfirmAuctionNotice.properties files are read from Locators directory
+2019-07-08 16:26:35 INFO  Log:40 - The Liveauction.properties files are read from Locators directory
+2019-07-08 16:26:35 INFO  Log:40 - The Login.properties files are read from Locators directory
+2019-07-08 16:26:35 INFO  Log:40 - The StaticNote.properties files are read from Locators directory
+2019-07-08 16:26:35 INFO  Log:40 - The UploadAuction.properties files are read from Locators directory
+2019-07-08 16:26:35 INFO  Log:40 - The UploadAuctionNotice.properties files are read from Locators directory
+2019-07-08 16:26:35 INFO  Log:40 - The VesselDetails.properties files are read from Locators directory
+2019-07-08 16:26:35 INFO  Log:40 - The AddAuctionData.properties files are read from TestData directory
+2019-07-08 16:26:35 INFO  Log:40 - The AuctionData.properties files are read from TestData directory
+2019-07-08 16:26:35 INFO  Log:40 - The Logindata.properties files are read from TestData directory
+2019-07-08 16:26:35 INFO  Log:40 - The VesselData.properties files are read from TestData directory
+2019-07-08 16:26:35 INFO  Log:40 - ******************************************************************
+2019-07-08 16:26:35 INFO  Log:40 - The test should be performed at : chrome Browser. 
+2019-07-08 16:26:35 INFO  Log:40 - ******************************************************************
+2019-07-08 16:26:44 INFO  Log:40 - *********************************************************************
+2019-07-08 16:26:44 INFO  Log:40 - Navigating to the URL : https://newuat.buyjunction.in/
+2019-07-08 16:26:44 INFO  Log:40 - *********************************************************************
+2019-07-08 16:26:46 INFO  Log:24 - verify_The_Auction_Notice_Creation
+2019-07-08 16:26:48 INFO  Log:40 - We are going to kickout other user

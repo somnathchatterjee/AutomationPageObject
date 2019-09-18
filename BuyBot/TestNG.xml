@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="bot Test Report" preserve-order="true">
+
+    <listeners>
+        <listener class-name="com.qa.utility.ExtentedReport"></listener>
+    </listeners>
+
+    <!--  <parameter name="browser" value="chrome"></parameter>-->
+     <test name="Auction Notice Creation" preserve-order="true">
+         <classes>
+             <class name="com.utilComponents.Hooks"></class>
+             <class name="com.stepDefination.CheckTheLiveAuction"></class>
+         </classes>
+     </test>
+ </suite>

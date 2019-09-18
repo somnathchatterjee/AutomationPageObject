@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="bot Test Report" duration-ms="23244" started-at="2019-09-16T10:44:19Z" finished-at="2019-09-16T10:44:42Z">
+    <groups>
+    </groups>
+    <test name="Auction Notice Creation" duration-ms="23244" started-at="2019-09-16T10:44:19Z" finished-at="2019-09-16T10:44:42Z">
+      <class name="com.utilComponents.Hooks">
+        <test-method status="PASS" signature="logoutBidder()[pri:0, instance:com.utilComponents.Hooks@290222c1]" name="logoutBidder" is-config="true" duration-ms="2760" started-at="2019-09-16T10:44:39Z" finished-at="2019-09-16T10:44:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutBidder -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.utilComponents.Hooks@290222c1]" name="tearDown" is-config="true" duration-ms="1589" started-at="2019-09-16T10:44:42Z" finished-at="2019-09-16T10:44:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.utilComponents.Hooks -->
+      <class name="com.stepDefination.CheckTheLiveAuction">
+        <test-method status="PASS" signature="navigate_To_Live_Bidding_Page()[pri:1, instance:com.stepDefination.CheckTheLiveAuction@1e1a0406]" name="navigate_To_Live_Bidding_Page" duration-ms="19300" started-at="2019-09-16T10:44:20Z" finished-at="2019-09-16T10:44:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate_To_Live_Bidding_Page -->
+      </class> <!-- com.stepDefination.CheckTheLiveAuction -->
+    </test> <!-- Auction Notice Creation -->
+  </suite> <!-- bot Test Report -->
+</testng-results>

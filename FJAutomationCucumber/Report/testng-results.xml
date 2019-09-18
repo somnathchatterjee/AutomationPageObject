@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Finance Junction Test Report" duration-ms="136097" started-at="2019-04-18T06:08:06Z" finished-at="2019-04-18T06:10:22Z">
+    <groups>
+    </groups>
+    <test name="Login" duration-ms="136097" started-at="2019-04-18T06:08:06Z" finished-at="2019-04-18T06:10:22Z">
+      <class name="com.utilComponents.Hooks">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.utilComponents.Hooks@201a4587]" name="tearDown" is-config="true" duration-ms="1254" started-at="2019-04-18T06:10:22Z" finished-at="2019-04-18T06:10:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.utilComponents.Hooks -->
+      <class name="com.stepDefination.VerifyTheFinanceRequestValidationOfEPSUser">
+        <test-method status="PASS" signature="verifyEPSlogin()[pri:1, instance:com.stepDefination.VerifyTheFinanceRequestValidationOfEPSUser@659499f1]" name="verifyEPSlogin" duration-ms="67764" started-at="2019-04-18T06:08:06Z" finished-at="2019-04-18T06:09:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyEPSlogin -->
+        <test-method status="PASS" signature="verifyTheEPSDashboard()[pri:2, instance:com.stepDefination.VerifyTheFinanceRequestValidationOfEPSUser@659499f1]" name="verifyTheEPSDashboard" duration-ms="40857" started-at="2019-04-18T06:09:14Z" finished-at="2019-04-18T06:09:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTheEPSDashboard -->
+        <test-method status="PASS" signature="verifyTheEPSUserDashBoardAtFJ()[pri:3, instance:com.stepDefination.VerifyTheFinanceRequestValidationOfEPSUser@659499f1]" name="verifyTheEPSUserDashBoardAtFJ" duration-ms="5476" started-at="2019-04-18T06:09:54Z" finished-at="2019-04-18T06:10:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTheEPSUserDashBoardAtFJ -->
+        <test-method status="PASS" signature="loginAsSuperAdmin()[pri:4, instance:com.stepDefination.VerifyTheFinanceRequestValidationOfEPSUser@659499f1]" name="loginAsSuperAdmin" duration-ms="5560" started-at="2019-04-18T06:10:00Z" finished-at="2019-04-18T06:10:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginAsSuperAdmin -->
+        <test-method status="PASS" signature="ModifyTheLatestFinanceRequest()[pri:5, instance:com.stepDefination.VerifyTheFinanceRequestValidationOfEPSUser@659499f1]" name="ModifyTheLatestFinanceRequest" duration-ms="16322" started-at="2019-04-18T06:10:05Z" finished-at="2019-04-18T06:10:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ModifyTheLatestFinanceRequest -->
+      </class> <!-- com.stepDefination.VerifyTheFinanceRequestValidationOfEPSUser -->
+    </test> <!-- Login -->
+  </suite> <!-- Finance Junction Test Report -->
+</testng-results>

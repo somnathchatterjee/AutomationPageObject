@@ -1,0 +1,37 @@
+2019-08-23 12:17:31 INFO  Log:40 - The AddAuctionNotice.properties files are read from Locators directory
+2019-08-23 12:17:31 INFO  Log:40 - The AddBidderVesselDetails.properties files are read from Locators directory
+2019-08-23 12:17:31 INFO  Log:40 - The Adminhome.properties files are read from Locators directory
+2019-08-23 12:17:31 INFO  Log:40 - The AuctionReport.properties files are read from Locators directory
+2019-08-23 12:17:31 INFO  Log:40 - The Bidderhome.properties files are read from Locators directory
+2019-08-23 12:17:31 INFO  Log:40 - The ChangeAucStatus.properties files are read from Locators directory
+2019-08-23 12:17:31 INFO  Log:40 - The CheckAuctionNotice.properties files are read from Locators directory
+2019-08-23 12:17:31 INFO  Log:40 - The ConfirmAuctionNotice.properties files are read from Locators directory
+2019-08-23 12:17:31 INFO  Log:40 - The Liveauction.properties files are read from Locators directory
+2019-08-23 12:17:31 INFO  Log:40 - The Login.properties files are read from Locators directory
+2019-08-23 12:17:31 INFO  Log:40 - The ReleaseClosedAuction.properties files are read from Locators directory
+2019-08-23 12:17:31 INFO  Log:40 - The StaticNote.properties files are read from Locators directory
+2019-08-23 12:17:31 INFO  Log:40 - The UploadAuction.properties files are read from Locators directory
+2019-08-23 12:17:31 INFO  Log:40 - The UploadAuctionNotice.properties files are read from Locators directory
+2019-08-23 12:17:31 INFO  Log:40 - The VesselDetails.properties files are read from Locators directory
+2019-08-23 12:17:31 INFO  Log:40 - The AddAuctionData.properties files are read from TestData directory
+2019-08-23 12:17:31 INFO  Log:40 - The AuctionData.properties files are read from TestData directory
+2019-08-23 12:17:31 INFO  Log:40 - The Logindata.properties files are read from TestData directory
+2019-08-23 12:17:31 INFO  Log:40 - The VesselData.properties files are read from TestData directory
+2019-08-23 12:17:31 INFO  Log:40 - ******************************************************************
+2019-08-23 12:17:31 INFO  Log:40 - The test should be performed at : Chrome Browser. 
+2019-08-23 12:17:31 INFO  Log:40 - ******************************************************************
+2019-08-23 12:17:39 INFO  Log:40 - *********************************************************************
+2019-08-23 12:17:39 INFO  Log:40 - Navigating to the URL : https://newuat.buyjunction.in/
+2019-08-23 12:17:39 INFO  Log:40 - *********************************************************************
+2019-08-23 12:17:40 INFO  Log:24 - verify_Auction_Notice_Is_Present_Or_Not_Under_Pending
+2019-08-23 12:17:53 ERROR Log:52 - no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='authCode']"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.5', revision: 'd54ebd709a', time: '2018-11-06T11:42:16'
+System info: host: 'MJLT-1363', ip: '172.16.16.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\SOMNAT~1.CHA\AppDa...}, goog:chromeOptions: {debuggerAddress: localhost:61046}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 8f80b7a3052a7abe7cc1d993c5d4f0d0
+*** Element info: {Using=xpath, value=//input[@id='authCode']}
+2019-08-23 12:17:53 INFO  Log:24 - verify_Auction_Notice_Is_Present_Or_Not_Under_Accepted
+2019-08-23 12:18:23 INFO  Log:24 - verify_Auction_Notice_Is_Present_Or_Not_Under_Rejected

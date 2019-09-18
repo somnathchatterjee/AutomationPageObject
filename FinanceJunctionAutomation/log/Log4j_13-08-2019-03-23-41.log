@@ -1,0 +1,95 @@
+2019-08-13 15:23:41 INFO  Log:40 - The BankAccount.properties files are read from Locators directory
+2019-08-13 15:23:41 INFO  Log:40 - The BankMap.properties files are read from Locators directory
+2019-08-13 15:23:41 INFO  Log:40 - The Branch.properties files are read from Locators directory
+2019-08-13 15:23:41 INFO  Log:40 - The EPSUser.properties files are read from Locators directory
+2019-08-13 15:23:41 INFO  Log:40 - The FinanceRequest.properties files are read from Locators directory
+2019-08-13 15:23:41 INFO  Log:40 - The Home.properties files are read from Locators directory
+2019-08-13 15:23:41 INFO  Log:40 - The Login.properties files are read from Locators directory
+2019-08-13 15:23:41 INFO  Log:40 - The MetalUser.properties files are read from Locators directory
+2019-08-13 15:23:41 INFO  Log:40 - The Organization.properties files are read from Locators directory
+2019-08-13 15:23:41 INFO  Log:40 - The Report.properties files are read from Locators directory
+2019-08-13 15:23:41 INFO  Log:40 - The User.properties files are read from Locators directory
+2019-08-13 15:23:41 INFO  Log:40 - The ViewFinanceRequest.properties files are read from Locators directory
+2019-08-13 15:23:41 INFO  Log:40 - The AddBranchData.properties files are read from TestData directory
+2019-08-13 15:23:41 INFO  Log:40 - The AddOrganizationData.properties files are read from TestData directory
+2019-08-13 15:23:41 INFO  Log:40 - The AddUserData.properties files are read from TestData directory
+2019-08-13 15:23:41 INFO  Log:40 - The EpsData.properties files are read from TestData directory
+2019-08-13 15:23:41 INFO  Log:40 - The Logindata.properties files are read from TestData directory
+2019-08-13 15:23:41 INFO  Log:40 - The MapData.properties files are read from TestData directory
+2019-08-13 15:23:41 INFO  Log:40 - The MetalData.properties files are read from TestData directory
+2019-08-13 15:23:41 INFO  Log:40 - The ReportData.properties files are read from TestData directory
+2019-08-13 15:23:41 INFO  Log:40 - ******************************************************************
+2019-08-13 15:23:41 INFO  Log:40 - The test should be performed at : Chrome Browser. 
+2019-08-13 15:23:41 INFO  Log:40 - ******************************************************************
+2019-08-13 15:24:45 INFO  Log:40 - The BankAccount.properties files are read from Locators directory
+2019-08-13 15:24:45 INFO  Log:40 - The BankMap.properties files are read from Locators directory
+2019-08-13 15:24:45 INFO  Log:40 - The Branch.properties files are read from Locators directory
+2019-08-13 15:24:45 INFO  Log:40 - The EPSUser.properties files are read from Locators directory
+2019-08-13 15:24:45 INFO  Log:40 - The FinanceRequest.properties files are read from Locators directory
+2019-08-13 15:24:45 INFO  Log:40 - The Home.properties files are read from Locators directory
+2019-08-13 15:24:45 INFO  Log:40 - The Login.properties files are read from Locators directory
+2019-08-13 15:24:45 INFO  Log:40 - The MetalUser.properties files are read from Locators directory
+2019-08-13 15:24:45 INFO  Log:40 - The Organization.properties files are read from Locators directory
+2019-08-13 15:24:45 INFO  Log:40 - The Report.properties files are read from Locators directory
+2019-08-13 15:24:45 INFO  Log:40 - The User.properties files are read from Locators directory
+2019-08-13 15:24:45 INFO  Log:40 - The ViewFinanceRequest.properties files are read from Locators directory
+2019-08-13 15:24:45 INFO  Log:40 - The AddBranchData.properties files are read from TestData directory
+2019-08-13 15:24:45 INFO  Log:40 - The AddOrganizationData.properties files are read from TestData directory
+2019-08-13 15:24:45 INFO  Log:40 - The AddUserData.properties files are read from TestData directory
+2019-08-13 15:24:45 INFO  Log:40 - The EpsData.properties files are read from TestData directory
+2019-08-13 15:24:45 INFO  Log:40 - The Logindata.properties files are read from TestData directory
+2019-08-13 15:24:45 INFO  Log:40 - The MapData.properties files are read from TestData directory
+2019-08-13 15:24:45 INFO  Log:40 - The MetalData.properties files are read from TestData directory
+2019-08-13 15:24:45 INFO  Log:40 - The ReportData.properties files are read from TestData directory
+2019-08-13 15:24:45 INFO  Log:40 - ******************************************************************
+2019-08-13 15:24:45 INFO  Log:40 - The test should be performed at : Chrome Browser. 
+2019-08-13 15:24:45 INFO  Log:40 - ******************************************************************
+2019-08-13 15:24:52 INFO  Log:40 - *********************************************************************
+2019-08-13 15:24:52 INFO  Log:40 - Navigating to the URL : https://service.financejunction.in/FinMkt/login
+2019-08-13 15:24:52 INFO  Log:40 - *********************************************************************
+2019-08-13 15:25:14 INFO  Log:40 - We are in Dashboard page
+2019-08-13 15:25:14 INFO  Log:40 - no such element: Unable to locate element: {"method":"xpath","selector":"//button[@id='submit']"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.5', revision: 'd54ebd709a', time: '2018-11-06T11:42:16'
+System info: host: 'MJLT-1363', ip: '172.16.16.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\SOMNAT~1.CHA\AppDa...}, goog:chromeOptions: {debuggerAddress: localhost:62059}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 7a3fbafacf7062b6854a2abe49ca5d67
+*** Element info: {Using=xpath, value=//button[@id='submit']}
+2019-08-13 15:25:16 INFO  Log:40 - no such element: Unable to locate element: {"method":"xpath","selector":"//a[contains(text(),'GENERAL')]"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.5', revision: 'd54ebd709a', time: '2018-11-06T11:42:16'
+System info: host: 'MJLT-1363', ip: '172.16.16.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\SOMNAT~1.CHA\AppDa...}, goog:chromeOptions: {debuggerAddress: localhost:62059}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 7a3fbafacf7062b6854a2abe49ca5d67
+*** Element info: {Using=xpath, value=//a[contains(text(),'GENERAL')]}
+2019-08-13 15:25:19 INFO  Log:40 - no such element: Unable to locate element: {"method":"xpath","selector":"//a[@class='dropdown-toggle'][contains(text(),'Finance Request')]"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.5', revision: 'd54ebd709a', time: '2018-11-06T11:42:16'
+System info: host: 'MJLT-1363', ip: '172.16.16.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\SOMNAT~1.CHA\AppDa...}, goog:chromeOptions: {debuggerAddress: localhost:62059}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 7a3fbafacf7062b6854a2abe49ca5d67
+*** Element info: {Using=xpath, value=//a[@class='dropdown-toggle'][contains(text(),'Finance Request')]}
+2019-08-13 15:25:20 INFO  Log:40 - no such element: Unable to locate element: {"method":"xpath","selector":"//select[@name='clientOrg']"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.5', revision: 'd54ebd709a', time: '2018-11-06T11:42:16'
+System info: host: 'MJLT-1363', ip: '172.16.16.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\SOMNAT~1.CHA\AppDa...}, goog:chromeOptions: {debuggerAddress: localhost:62059}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 7a3fbafacf7062b6854a2abe49ca5d67
+*** Element info: {Using=xpath, value=//select[@name='clientOrg']}
+2019-08-13 15:25:20 INFO  Log:40 - no such element: Unable to locate element: {"method":"xpath","selector":"//a[@class='dropdown-toggle'][contains(text(),'Finance Request')]"}
+  (Session info: chrome=76.0.3809.100)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.5', revision: 'd54ebd709a', time: '2018-11-06T11:42:16'
+System info: host: 'MJLT-1363', ip: '172.16.16.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\SOMNAT~1.CHA\AppDa...}, goog:chromeOptions: {debuggerAddress: localhost:62059}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 7a3fbafacf7062b6854a2abe49ca5d67
+*** Element info: {Using=xpath, value=//a[@class='dropdown-toggle'][contains(text(),'Finance Request')]}

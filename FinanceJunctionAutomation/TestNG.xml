@@ -1,0 +1,33 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Finance Junction Test Report" preserve-order="true">
+
+    <listeners>
+        <listener class-name="com.qa.utility.ExtentedReport"></listener>
+    </listeners>
+
+    <test name="Test Report Of Metal and Finance Junction Integration" preserve-order="true">
+        <classes>
+            <class name="com.utilComponents.Hooks"></class>
+            <class name="com.stepDefination.VerifyFinanceRequestFromMetal"></class>
+        </classes>
+    </test>
+   <!-- <test name="The Branch" preserve-order="true">
+        <classes>
+            <class name="com.utilComponents.Hooks"></class>
+            <class name="com.stepDefination.VerifyTheBranch"></class>
+        </classes>
+    </test>
+    <test name="Regression Testing" preserve-order="true">
+        <classes>
+            <class name="com.utilComponents.Hooks"></class>
+            <class name="com.stepDefination.VerifyTheUser"></class>
+            <class name="com.stepDefination.VerifyTheReportAndHistory"></class>
+        </classes>
+    </test>
+    <test name="EPS to Finance junction integration testing" preserve-order="true">
+        <classes>
+            <class name="com.utilComponents.Hooks"></class>
+            <class name="com.stepDefination.VerifyTheFinanceRequestValidationOfEPSUser"></class>
+        </classes>
+    </test>-->
+</suite>

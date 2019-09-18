@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="14" passed="14">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Buy Junction Test Report" duration-ms="960298" started-at="2019-07-24T10:35:15Z" finished-at="2019-07-24T10:51:15Z">
+    <groups>
+    </groups>
+    <test name="Auction Notice Creation" duration-ms="206115" started-at="2019-07-24T10:35:15Z" finished-at="2019-07-24T10:38:41Z">
+      <class name="com.utilComponents.Hooks">
+        <test-method status="PASS" signature="logoutBidder()[pri:0, instance:com.utilComponents.Hooks@cb0755b]" name="logoutBidder" is-config="true" duration-ms="2146" started-at="2019-07-24T10:38:39Z" finished-at="2019-07-24T10:38:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutBidder -->
+      </class> <!-- com.utilComponents.Hooks -->
+      <class name="com.stepDefination.VerifyTheAuctionCreationByNotice">
+        <test-method status="PASS" signature="verify_The_Auction_Notice_Creation()[pri:1, instance:com.stepDefination.VerifyTheAuctionCreationByNotice@548d708a]" name="verify_The_Auction_Notice_Creation" duration-ms="42837" started-at="2019-07-24T10:35:15Z" finished-at="2019-07-24T10:35:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_The_Auction_Notice_Creation -->
+        <test-method status="PASS" signature="verify_The_Created_Auction_Notice_Upload_For_Stage_1()[pri:2, instance:com.stepDefination.VerifyTheAuctionCreationByNotice@548d708a]" name="verify_The_Created_Auction_Notice_Upload_For_Stage_1" duration-ms="69464" started-at="2019-07-24T10:35:58Z" finished-at="2019-07-24T10:37:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_The_Created_Auction_Notice_Upload_For_Stage_1 -->
+        <test-method status="PASS" signature="check_Auction_Is_Ready_For_Submit_Or_Not()[pri:3, instance:com.stepDefination.VerifyTheAuctionCreationByNotice@548d708a]" name="check_Auction_Is_Ready_For_Submit_Or_Not" duration-ms="30633" started-at="2019-07-24T10:37:07Z" finished-at="2019-07-24T10:37:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_Auction_Is_Ready_For_Submit_Or_Not -->
+        <test-method status="PASS" signature="verify_The_Static_Note_Addition_and_Map_To_The_Auction()[pri:4, instance:com.stepDefination.VerifyTheAuctionCreationByNotice@548d708a]" name="verify_The_Static_Note_Addition_and_Map_To_The_Auction" duration-ms="26351" started-at="2019-07-24T10:37:38Z" finished-at="2019-07-24T10:38:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_The_Static_Note_Addition_and_Map_To_The_Auction -->
+        <test-method status="PASS" signature="auction_Notice_Confirm_For_Ready()[pri:5, instance:com.stepDefination.VerifyTheAuctionCreationByNotice@548d708a]" name="auction_Notice_Confirm_For_Ready" duration-ms="9283" started-at="2019-07-24T10:38:04Z" finished-at="2019-07-24T10:38:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- auction_Notice_Confirm_For_Ready -->
+        <test-method status="PASS" signature="confirm_The_Auction_Notice()[pri:6, instance:com.stepDefination.VerifyTheAuctionCreationByNotice@548d708a]" name="confirm_The_Auction_Notice" duration-ms="7237" started-at="2019-07-24T10:38:14Z" finished-at="2019-07-24T10:38:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- confirm_The_Auction_Notice -->
+        <test-method status="PASS" signature="change_The_Status_Of_The_Auction()[pri:7, instance:com.stepDefination.VerifyTheAuctionCreationByNotice@548d708a]" name="change_The_Status_Of_The_Auction" duration-ms="18140" started-at="2019-07-24T10:38:21Z" finished-at="2019-07-24T10:38:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- change_The_Status_Of_The_Auction -->
+      </class> <!-- com.stepDefination.VerifyTheAuctionCreationByNotice -->
+    </test> <!-- Auction Notice Creation -->
+    <test name="Auction Notice Accept" duration-ms="116961" started-at="2019-07-24T10:38:41Z" finished-at="2019-07-24T10:40:38Z">
+      <class name="com.stepDefination.VerifyAuctionNoticeForOcv">
+        <test-method status="PASS" signature="verify_Auction_Notice_Is_Present_for_BidderOne()[pri:1, instance:com.stepDefination.VerifyAuctionNoticeForOcv@2b40ff9c]" name="verify_Auction_Notice_Is_Present_for_BidderOne" duration-ms="58879" started-at="2019-07-24T10:38:41Z" finished-at="2019-07-24T10:39:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_Auction_Notice_Is_Present_for_BidderOne -->
+        <test-method status="PASS" signature="verify_Auction_Notice_Is_Present_for_BidderTwo()[pri:2, instance:com.stepDefination.VerifyAuctionNoticeForOcv@2b40ff9c]" name="verify_Auction_Notice_Is_Present_for_BidderTwo" duration-ms="56043" started-at="2019-07-24T10:39:40Z" finished-at="2019-07-24T10:40:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_Auction_Notice_Is_Present_for_BidderTwo -->
+      </class> <!-- com.stepDefination.VerifyAuctionNoticeForOcv -->
+      <class name="com.utilComponents.Hooks">
+        <test-method status="PASS" signature="logoutBidder()[pri:0, instance:com.utilComponents.Hooks@3e08ff24]" name="logoutBidder" is-config="true" duration-ms="2039" started-at="2019-07-24T10:40:36Z" finished-at="2019-07-24T10:40:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutBidder -->
+      </class> <!-- com.utilComponents.Hooks -->
+    </test> <!-- Auction Notice Accept -->
+    <test name="Live Auction Multi Seal Bid" duration-ms="452984" started-at="2019-07-24T10:40:38Z" finished-at="2019-07-24T10:48:11Z">
+      <class name="com.stepDefination.CheckLiveBiddingForOvcMultiSealBid">
+        <test-method status="PASS" signature="verify_The_Live_Auction_Multi_Seal_Bid_User1()[pri:1, instance:com.stepDefination.CheckLiveBiddingForOvcMultiSealBid@7188af83]" name="verify_The_Live_Auction_Multi_Seal_Bid_User1" duration-ms="124313" started-at="2019-07-24T10:40:38Z" finished-at="2019-07-24T10:42:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_The_Live_Auction_Multi_Seal_Bid_User1 -->
+        <test-method status="PASS" signature="verify_The_Live_Auction_Multi_Seal_Bid_User2()[pri:2, instance:com.stepDefination.CheckLiveBiddingForOvcMultiSealBid@7188af83]" name="verify_The_Live_Auction_Multi_Seal_Bid_User2" duration-ms="153204" started-at="2019-07-24T10:42:43Z" finished-at="2019-07-24T10:45:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_The_Live_Auction_Multi_Seal_Bid_User2 -->
+        <test-method status="PASS" signature="verify_The_Live_Auction_General_R_A_User1()[pri:3, instance:com.stepDefination.CheckLiveBiddingForOvcMultiSealBid@7188af83]" name="verify_The_Live_Auction_General_R_A_User1" duration-ms="170332" started-at="2019-07-24T10:45:16Z" finished-at="2019-07-24T10:48:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_The_Live_Auction_General_R_A_User1 -->
+        <test-method status="PASS" signature="verify_The_Live_Auction_General_R_A_User2()[pri:4, instance:com.stepDefination.CheckLiveBiddingForOvcMultiSealBid@7188af83]" name="verify_The_Live_Auction_General_R_A_User2" duration-ms="3065" started-at="2019-07-24T10:48:06Z" finished-at="2019-07-24T10:48:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_The_Live_Auction_General_R_A_User2 -->
+      </class> <!-- com.stepDefination.CheckLiveBiddingForOvcMultiSealBid -->
+      <class name="com.utilComponents.Hooks">
+        <test-method status="PASS" signature="logoutBidder()[pri:0, instance:com.utilComponents.Hooks@6be968ce]" name="logoutBidder" is-config="true" duration-ms="2066" started-at="2019-07-24T10:48:09Z" finished-at="2019-07-24T10:48:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutBidder -->
+      </class> <!-- com.utilComponents.Hooks -->
+    </test> <!-- Live Auction Multi Seal Bid -->
+    <test name="Release The " duration-ms="184081" started-at="2019-07-24T10:48:11Z" finished-at="2019-07-24T10:51:15Z">
+      <class name="com.stepDefination.VerifyTheReleaseOfClosedAuction">
+        <test-method status="PASS" signature="check_The_Release()[pri:0, instance:com.stepDefination.VerifyTheReleaseOfClosedAuction@17fc391b]" name="check_The_Release" duration-ms="182060" started-at="2019-07-24T10:48:11Z" finished-at="2019-07-24T10:51:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_The_Release -->
+      </class> <!-- com.stepDefination.VerifyTheReleaseOfClosedAuction -->
+      <class name="com.utilComponents.Hooks">
+        <test-method status="PASS" signature="logoutBidder()[pri:0, instance:com.utilComponents.Hooks@2b30a42c]" name="logoutBidder" is-config="true" duration-ms="2015" started-at="2019-07-24T10:51:13Z" finished-at="2019-07-24T10:51:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutBidder -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.utilComponents.Hooks@2b30a42c]" name="tearDown" is-config="true" duration-ms="1275" started-at="2019-07-24T10:51:15Z" finished-at="2019-07-24T10:51:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.utilComponents.Hooks -->
+    </test> <!-- Release The  -->
+  </suite> <!-- Buy Junction Test Report -->
+</testng-results>

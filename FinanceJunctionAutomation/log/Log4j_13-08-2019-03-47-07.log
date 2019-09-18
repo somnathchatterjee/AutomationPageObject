@@ -1,0 +1,33 @@
+2019-08-13 15:47:08 INFO  Log:40 - The BankAccount.properties files are read from Locators directory
+2019-08-13 15:47:08 INFO  Log:40 - The BankMap.properties files are read from Locators directory
+2019-08-13 15:47:08 INFO  Log:40 - The Branch.properties files are read from Locators directory
+2019-08-13 15:47:08 INFO  Log:40 - The EPSUser.properties files are read from Locators directory
+2019-08-13 15:47:08 INFO  Log:40 - The FinanceRequest.properties files are read from Locators directory
+2019-08-13 15:47:08 INFO  Log:40 - The Home.properties files are read from Locators directory
+2019-08-13 15:47:08 INFO  Log:40 - The Login.properties files are read from Locators directory
+2019-08-13 15:47:08 INFO  Log:40 - The MetalUser.properties files are read from Locators directory
+2019-08-13 15:47:08 INFO  Log:40 - The Organization.properties files are read from Locators directory
+2019-08-13 15:47:08 INFO  Log:40 - The Report.properties files are read from Locators directory
+2019-08-13 15:47:08 INFO  Log:40 - The User.properties files are read from Locators directory
+2019-08-13 15:47:08 INFO  Log:40 - The ViewFinanceRequest.properties files are read from Locators directory
+2019-08-13 15:47:08 INFO  Log:40 - The AddBranchData.properties files are read from TestData directory
+2019-08-13 15:47:08 INFO  Log:40 - The AddOrganizationData.properties files are read from TestData directory
+2019-08-13 15:47:08 INFO  Log:40 - The AddUserData.properties files are read from TestData directory
+2019-08-13 15:47:08 INFO  Log:40 - The EpsData.properties files are read from TestData directory
+2019-08-13 15:47:08 INFO  Log:40 - The Logindata.properties files are read from TestData directory
+2019-08-13 15:47:08 INFO  Log:40 - The MapData.properties files are read from TestData directory
+2019-08-13 15:47:08 INFO  Log:40 - The MetalData.properties files are read from TestData directory
+2019-08-13 15:47:08 INFO  Log:40 - The ReportData.properties files are read from TestData directory
+2019-08-13 15:47:08 INFO  Log:40 - ******************************************************************
+2019-08-13 15:47:08 INFO  Log:40 - The test should be performed at : Chrome Browser. 
+2019-08-13 15:47:08 INFO  Log:40 - ******************************************************************
+2019-08-13 15:47:17 INFO  Log:40 - *********************************************************************
+2019-08-13 15:47:17 INFO  Log:40 - Navigating to the URL : https://service.financejunction.in/FinMkt/login
+2019-08-13 15:47:17 INFO  Log:40 - *********************************************************************
+2019-08-13 15:48:00 INFO  Log:40 - We are going to kickout other user
+2019-08-13 15:48:35 INFO  Log:40 - Cannot locate element with text: bankaccount
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.5', revision: 'd54ebd709a', time: '2018-11-06T11:42:16'
+System info: host: 'MJLT-1363', ip: '172.16.16.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_202'
+Driver info: driver.version: unknown
+2019-08-13 15:48:42 INFO  Log:40 - -1

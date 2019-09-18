@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Finance Junction Test Report">
+    <test name="Login">
+        <classes>
+            <class name="com.utilComponents.Hooks"></class>
+            <class name="com.stepDefination.VerifyTheFinanceRequestValidationOfEPSUser"></class>
+        </classes>
+    </test>
+</suite>

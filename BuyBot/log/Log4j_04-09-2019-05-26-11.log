@@ -1,0 +1,23 @@
+2019-09-04 17:26:11 INFO  Log:40 - The Adminhome.properties files are read from Locators directory
+2019-09-04 17:26:11 INFO  Log:40 - The Bidderhome.properties files are read from Locators directory
+2019-09-04 17:26:11 INFO  Log:40 - The Liveauction.properties files are read from Locators directory
+2019-09-04 17:26:11 INFO  Log:40 - The Login.properties files are read from Locators directory
+2019-09-04 17:26:11 INFO  Log:40 - The AddAuctionData.properties files are read from TestData directory
+2019-09-04 17:26:11 INFO  Log:40 - The AuctionData.properties files are read from TestData directory
+2019-09-04 17:26:11 INFO  Log:40 - The Logindata.properties files are read from TestData directory
+2019-09-04 17:26:11 INFO  Log:40 - ******************************************************************
+2019-09-04 17:26:11 INFO  Log:40 - The test should be performed at : Chrome Browser. 
+2019-09-04 17:26:11 INFO  Log:40 - ******************************************************************
+2019-09-04 17:26:18 INFO  Log:40 - *********************************************************************
+2019-09-04 17:26:18 INFO  Log:40 - Navigating to the URL : https://newuat.buyjunction.in/
+2019-09-04 17:26:18 INFO  Log:40 - *********************************************************************
+2019-09-04 17:26:20 INFO  Log:24 - navigate_To_Live_Bidding_Page
+2019-09-04 17:26:21 INFO  Log:40 - We are going to kickout other user
+2019-09-04 17:26:25 INFO  Log:40 - Bid(s) element found and hovered
+2019-09-04 17:26:27 INFO  Log:40 - Yeppeee.....Live auction button is displaying....let's click
+2019-09-04 17:26:44 INFO  Log:40 - No alert present : false
+2019-09-04 17:26:48 INFO  Log:40 - Index: 1, Size: 1
+2019-09-04 17:29:54 INFO  Log:40 - No alert present : false
+2019-09-04 17:29:57 INFO  Log:40 - Index: 1, Size: 1
+2019-09-04 17:33:03 INFO  Log:40 - No alert present : false
+2019-09-04 17:33:06 INFO  Log:40 - Index: 1, Size: 1

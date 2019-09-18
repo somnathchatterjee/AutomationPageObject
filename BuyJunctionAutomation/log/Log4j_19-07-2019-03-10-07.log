@@ -1,0 +1,39 @@
+2019-07-19 15:10:07 INFO  Log:40 - The AddAuctionNotice.properties files are read from Locators directory
+2019-07-19 15:10:07 INFO  Log:40 - The AddBidderVesselDetails.properties files are read from Locators directory
+2019-07-19 15:10:07 INFO  Log:40 - The Adminhome.properties files are read from Locators directory
+2019-07-19 15:10:07 INFO  Log:40 - The Bidderhome.properties files are read from Locators directory
+2019-07-19 15:10:07 INFO  Log:40 - The ChangeAucStatus.properties files are read from Locators directory
+2019-07-19 15:10:07 INFO  Log:40 - The CheckAuctionNotice.properties files are read from Locators directory
+2019-07-19 15:10:07 INFO  Log:40 - The ConfirmAuctionNotice.properties files are read from Locators directory
+2019-07-19 15:10:07 INFO  Log:40 - The Liveauction.properties files are read from Locators directory
+2019-07-19 15:10:07 INFO  Log:40 - The Login.properties files are read from Locators directory
+2019-07-19 15:10:07 INFO  Log:40 - The ReleaseClosedAuction.properties files are read from Locators directory
+2019-07-19 15:10:07 INFO  Log:40 - The StaticNote.properties files are read from Locators directory
+2019-07-19 15:10:07 INFO  Log:40 - The UploadAuction.properties files are read from Locators directory
+2019-07-19 15:10:07 INFO  Log:40 - The UploadAuctionNotice.properties files are read from Locators directory
+2019-07-19 15:10:07 INFO  Log:40 - The VesselDetails.properties files are read from Locators directory
+2019-07-19 15:10:07 INFO  Log:40 - The AddAuctionData.properties files are read from TestData directory
+2019-07-19 15:10:07 INFO  Log:40 - The AuctionData.properties files are read from TestData directory
+2019-07-19 15:10:07 INFO  Log:40 - The Logindata.properties files are read from TestData directory
+2019-07-19 15:10:07 INFO  Log:40 - The VesselData.properties files are read from TestData directory
+2019-07-19 15:10:07 INFO  Log:40 - ******************************************************************
+2019-07-19 15:10:07 INFO  Log:40 - The test should be performed at : Chrome Browser. 
+2019-07-19 15:10:07 INFO  Log:40 - ******************************************************************
+2019-07-19 15:10:15 INFO  Log:40 - *********************************************************************
+2019-07-19 15:10:15 INFO  Log:40 - Navigating to the URL : https://newuat.buyjunction.in/
+2019-07-19 15:10:15 INFO  Log:40 - *********************************************************************
+2019-07-19 15:10:16 INFO  Log:24 - verify_Auction_Notice_Is_Present_for_BidderOne
+2019-07-19 15:10:21 INFO  Log:40 - We are in AdminHome page
+2019-07-19 15:10:23 INFO  Log:40 - Terms & Condition element found and hovered
+2019-07-19 15:10:32 INFO  Log:40 - Radio button Selected
+2019-07-19 15:10:59 INFO  Log:40 - First alert clicked
+2019-07-19 15:11:00 INFO  Log:40 - Second alert clicked
+2019-07-19 15:11:05 INFO  Log:40 - Vessel details browser closed
+2019-07-19 15:11:05 INFO  Log:40 - CheckBox Selected
+2019-07-19 15:11:06 INFO  Log:40 - Submit button Selected
+2019-07-19 15:11:08 INFO  Log:24 - verify_Auction_Notice_Is_Present_for_BidderTwo
+2019-07-19 15:11:12 INFO  Log:40 - We are in AdminHome page
+2019-07-19 15:11:14 INFO  Log:40 - Terms & Condition element found and hovered
+2019-07-19 15:11:21 INFO  Log:40 - CheckBox Selected
+2019-07-19 15:11:24 INFO  Log:40 - Radio button Selected
+2019-07-19 15:11:34 INFO  Log:40 - Submit button Selected

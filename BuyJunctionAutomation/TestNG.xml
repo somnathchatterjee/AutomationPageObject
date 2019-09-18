@@ -1,0 +1,39 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Buy Junction Test Report" preserve-order="true">
+
+    <listeners>
+        <listener class-name="com.qa.utility.ExtentedReport"></listener>
+    </listeners>
+
+    <!--  <parameter name="browser" value="chrome"></parameter>-->
+     <test name="Auction Notice Creation" preserve-order="true">
+         <classes>
+             <class name="com.utilComponents.Hooks"></class>
+             <class name="com.stepDefination.VerifyTheAuctionCreationByNotice"></class>
+         </classes>
+     </test>
+    <test name="Auction Notice Accept" preserve-order="true">
+        <classes>
+            <class name="com.utilComponents.Hooks"></class>
+            <class name="com.stepDefination.VerifyAuctionNoticeForOcv"></class>
+        </classes>
+    </test>
+     <test name="Live Auction Multi Seal Bid" preserve-order="true">
+         <classes>
+             <class name="com.utilComponents.Hooks"></class>
+             <class name="com.stepDefination.CheckLiveBiddingForOvcMultiSealBid"></class>
+         </classes>
+     </test>
+   <!-- <test name="close" preserve-order="true">
+        <classes>
+            <class name="com.utilComponents.Hooks"></class>
+            <class name="com.stepDefination.VerifyTheReleaseOfClosedAuction"></class>
+        </classes>
+    </test>
+    <test name="Release The Auction" preserve-order="true">
+        <classes>
+            <class name="com.utilComponents.Hooks"></class>
+            <class name="com.stepDefination.VerifyTheOvcAuctionReport"></class>
+        </classes>
+    </test>-->
+ </suite>

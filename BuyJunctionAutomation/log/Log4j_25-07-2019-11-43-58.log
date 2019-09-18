@@ -1,0 +1,49 @@
+2019-07-25 11:43:58 INFO  Log:40 - The AddAuctionNotice.properties files are read from Locators directory
+2019-07-25 11:43:58 INFO  Log:40 - The AddBidderVesselDetails.properties files are read from Locators directory
+2019-07-25 11:43:58 INFO  Log:40 - The Adminhome.properties files are read from Locators directory
+2019-07-25 11:43:58 INFO  Log:40 - The Bidderhome.properties files are read from Locators directory
+2019-07-25 11:43:58 INFO  Log:40 - The ChangeAucStatus.properties files are read from Locators directory
+2019-07-25 11:43:58 INFO  Log:40 - The CheckAuctionNotice.properties files are read from Locators directory
+2019-07-25 11:43:58 INFO  Log:40 - The ConfirmAuctionNotice.properties files are read from Locators directory
+2019-07-25 11:43:58 INFO  Log:40 - The Liveauction.properties files are read from Locators directory
+2019-07-25 11:43:58 INFO  Log:40 - The Login.properties files are read from Locators directory
+2019-07-25 11:43:58 INFO  Log:40 - The ReleaseClosedAuction.properties files are read from Locators directory
+2019-07-25 11:43:58 INFO  Log:40 - The StaticNote.properties files are read from Locators directory
+2019-07-25 11:43:58 INFO  Log:40 - The UploadAuction.properties files are read from Locators directory
+2019-07-25 11:43:58 INFO  Log:40 - The UploadAuctionNotice.properties files are read from Locators directory
+2019-07-25 11:43:58 INFO  Log:40 - The VesselDetails.properties files are read from Locators directory
+2019-07-25 11:43:58 INFO  Log:40 - The AddAuctionData.properties files are read from TestData directory
+2019-07-25 11:43:58 INFO  Log:40 - The AuctionData.properties files are read from TestData directory
+2019-07-25 11:43:58 INFO  Log:40 - The Logindata.properties files are read from TestData directory
+2019-07-25 11:43:58 INFO  Log:40 - The VesselData.properties files are read from TestData directory
+2019-07-25 11:43:58 INFO  Log:40 - ******************************************************************
+2019-07-25 11:43:58 INFO  Log:40 - The test should be performed at : Chrome Browser. 
+2019-07-25 11:43:58 INFO  Log:40 - ******************************************************************
+2019-07-25 11:44:07 INFO  Log:40 - *********************************************************************
+2019-07-25 11:44:07 INFO  Log:40 - Navigating to the URL : https://newuat.buyjunction.in/
+2019-07-25 11:44:07 INFO  Log:40 - *********************************************************************
+2019-07-25 11:44:08 INFO  Log:24 - verify_The_Live_Auction_General_R_A_User1
+2019-07-25 11:44:17 INFO  Log:40 - We are in AdminHome page
+2019-07-25 11:44:28 INFO  Log:40 - Bid(s) element found and hovered
+2019-07-25 11:44:30 INFO  Log:40 - Yeppeee.....Live auction button is displaying....let's click
+2019-07-25 11:44:48 INFO  Log:40 - no such alert
+  (Session info: chrome=75.0.3770.142)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.5', revision: 'd54ebd709a', time: '2018-11-06T11:42:16'
+System info: host: 'MJLT-1363', ip: '172.16.16.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\SOMNAT~1.CHA\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:61266}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.142, webStorageEnabled: true}
+Session ID: 5f24c9044c76809570f33f54a40e79ba
+2019-07-25 11:44:48 INFO  Log:24 - verify_The_Live_Auction_General_R_A_User2
+2019-07-25 11:44:51 ERROR Log:52 - no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='authCode']"}
+  (Session info: chrome=75.0.3770.142)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.5', revision: 'd54ebd709a', time: '2018-11-06T11:42:16'
+System info: host: 'MJLT-1363', ip: '172.16.16.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\SOMNAT~1.CHA\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:61266}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.142, webStorageEnabled: true}
+Session ID: 5f24c9044c76809570f33f54a40e79ba
+*** Element info: {Using=xpath, value=//input[@id='authCode']}

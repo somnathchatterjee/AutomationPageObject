@@ -1,0 +1,27 @@
+2019-05-27 11:58:12 INFO  Log:40 - The BankAccount.properties files are read from Locators directory
+2019-05-27 11:58:12 INFO  Log:40 - The BankMap.properties files are read from Locators directory
+2019-05-27 11:58:12 INFO  Log:40 - The Branch.properties files are read from Locators directory
+2019-05-27 11:58:12 INFO  Log:40 - The EPSUser.properties files are read from Locators directory
+2019-05-27 11:58:12 INFO  Log:40 - The Home.properties files are read from Locators directory
+2019-05-27 11:58:12 INFO  Log:40 - The Login.properties files are read from Locators directory
+2019-05-27 11:58:12 INFO  Log:40 - The Organization.properties files are read from Locators directory
+2019-05-27 11:58:12 INFO  Log:40 - The Report.properties files are read from Locators directory
+2019-05-27 11:58:12 INFO  Log:40 - The User.properties files are read from Locators directory
+2019-05-27 11:58:12 INFO  Log:40 - The ViewFinanceRequest.properties files are read from Locators directory
+2019-05-27 11:58:12 INFO  Log:40 - The AddBranchData.properties files are read from TestData directory
+2019-05-27 11:58:12 INFO  Log:40 - The AddOrganizationData.properties files are read from TestData directory
+2019-05-27 11:58:12 INFO  Log:40 - The AddUserData.properties files are read from TestData directory
+2019-05-27 11:58:12 INFO  Log:40 - The EpsData.properties files are read from TestData directory
+2019-05-27 11:58:12 INFO  Log:40 - The Logindata.properties files are read from TestData directory
+2019-05-27 11:58:12 INFO  Log:40 - The MapData.properties files are read from TestData directory
+2019-05-27 11:58:12 INFO  Log:40 - The ReportData.properties files are read from TestData directory
+2019-05-27 11:58:12 INFO  Log:40 - ******************************************************************
+2019-05-27 11:58:12 INFO  Log:40 - The test should be performed at : Chrome Browser. 
+2019-05-27 11:58:12 INFO  Log:40 - ******************************************************************
+2019-05-27 11:58:27 INFO  Log:40 - *********************************************************************
+2019-05-27 11:58:27 INFO  Log:40 - Navigating to the URL : https://service.financejunction.in/FinMkt/login
+2019-05-27 11:58:27 INFO  Log:40 - *********************************************************************
+2019-05-27 11:58:31 INFO  Log:24 - Start testing
+2019-05-27 11:58:31 INFO  Log:40 - Test
+2019-05-27 11:58:36 INFO  Log:40 - The username get entered
+2019-05-27 11:58:39 INFO  Log:40 - Pasword get Entered

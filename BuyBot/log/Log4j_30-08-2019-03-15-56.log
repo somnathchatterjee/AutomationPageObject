@@ -1,0 +1,39 @@
+2019-08-30 15:15:56 INFO  Log:40 - The AddAuctionNotice.properties files are read from Locators directory
+2019-08-30 15:15:56 INFO  Log:40 - The AddBidderVesselDetails.properties files are read from Locators directory
+2019-08-30 15:15:56 INFO  Log:40 - The Adminhome.properties files are read from Locators directory
+2019-08-30 15:15:56 INFO  Log:40 - The AuctionReport.properties files are read from Locators directory
+2019-08-30 15:15:56 INFO  Log:40 - The Bidderhome.properties files are read from Locators directory
+2019-08-30 15:15:56 INFO  Log:40 - The ChangeAucStatus.properties files are read from Locators directory
+2019-08-30 15:15:56 INFO  Log:40 - The CheckAuctionNotice.properties files are read from Locators directory
+2019-08-30 15:15:56 INFO  Log:40 - The ConfirmAuctionNotice.properties files are read from Locators directory
+2019-08-30 15:15:56 INFO  Log:40 - The Liveauction.properties files are read from Locators directory
+2019-08-30 15:15:56 INFO  Log:40 - The Login.properties files are read from Locators directory
+2019-08-30 15:15:56 INFO  Log:40 - The ReleaseClosedAuction.properties files are read from Locators directory
+2019-08-30 15:15:56 INFO  Log:40 - The StaticNote.properties files are read from Locators directory
+2019-08-30 15:15:56 INFO  Log:40 - The UploadAuction.properties files are read from Locators directory
+2019-08-30 15:15:56 INFO  Log:40 - The UploadAuctionNotice.properties files are read from Locators directory
+2019-08-30 15:15:56 INFO  Log:40 - The VesselDetails.properties files are read from Locators directory
+2019-08-30 15:15:56 INFO  Log:40 - The AddAuctionData.properties files are read from TestData directory
+2019-08-30 15:15:56 INFO  Log:40 - The AuctionData.properties files are read from TestData directory
+2019-08-30 15:15:56 INFO  Log:40 - The Logindata.properties files are read from TestData directory
+2019-08-30 15:15:56 INFO  Log:40 - The VesselData.properties files are read from TestData directory
+2019-08-30 15:15:56 INFO  Log:40 - ******************************************************************
+2019-08-30 15:15:56 INFO  Log:40 - The test should be performed at : Chrome Browser. 
+2019-08-30 15:15:56 INFO  Log:40 - ******************************************************************
+2019-08-30 15:16:23 INFO  Log:40 - *********************************************************************
+2019-08-30 15:16:23 INFO  Log:40 - Navigating to the URL : https://newuat.buyjunction.in/
+2019-08-30 15:16:23 INFO  Log:40 - *********************************************************************
+2019-08-30 15:16:24 INFO  Log:24 - navigate_To_Live_Bidding_Page
+2019-08-30 15:16:28 INFO  Log:40 - We are in AdminHome page
+2019-08-30 15:16:31 INFO  Log:40 - Bid(s) element found and hovered
+2019-08-30 15:16:33 INFO  Log:40 - Yeppeee.....Live auction button is displaying....let's click
+2019-08-30 15:16:54 INFO  Log:40 - No alert present : false
+2019-08-30 15:16:57 INFO  Log:40 - Index: 1, Size: 1
+2019-08-30 15:17:04 INFO  Log:40 - No alert present : false
+2019-08-30 15:17:07 INFO  Log:40 - Index: 1, Size: 1
+2019-08-30 15:17:14 INFO  Log:40 - No alert present : false
+2019-08-30 15:17:17 INFO  Log:40 - Index: 1, Size: 1
+2019-08-30 15:17:25 INFO  Log:40 - No alert present : false
+2019-08-30 15:17:28 INFO  Log:40 - Index: 1, Size: 1
+2019-08-30 15:17:35 INFO  Log:40 - No alert present : false
+2019-08-30 15:17:38 INFO  Log:40 - Index: 1, Size: 1

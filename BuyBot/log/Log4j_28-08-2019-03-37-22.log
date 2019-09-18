@@ -1,0 +1,75 @@
+2019-08-28 15:37:22 INFO  Log:40 - The AddAuctionNotice.properties files are read from Locators directory
+2019-08-28 15:37:22 INFO  Log:40 - The AddBidderVesselDetails.properties files are read from Locators directory
+2019-08-28 15:37:22 INFO  Log:40 - The Adminhome.properties files are read from Locators directory
+2019-08-28 15:37:22 INFO  Log:40 - The AuctionReport.properties files are read from Locators directory
+2019-08-28 15:37:22 INFO  Log:40 - The Bidderhome.properties files are read from Locators directory
+2019-08-28 15:37:22 INFO  Log:40 - The ChangeAucStatus.properties files are read from Locators directory
+2019-08-28 15:37:22 INFO  Log:40 - The CheckAuctionNotice.properties files are read from Locators directory
+2019-08-28 15:37:22 INFO  Log:40 - The ConfirmAuctionNotice.properties files are read from Locators directory
+2019-08-28 15:37:22 INFO  Log:40 - The Liveauction.properties files are read from Locators directory
+2019-08-28 15:37:22 INFO  Log:40 - The Login.properties files are read from Locators directory
+2019-08-28 15:37:22 INFO  Log:40 - The ReleaseClosedAuction.properties files are read from Locators directory
+2019-08-28 15:37:22 INFO  Log:40 - The StaticNote.properties files are read from Locators directory
+2019-08-28 15:37:22 INFO  Log:40 - The UploadAuction.properties files are read from Locators directory
+2019-08-28 15:37:22 INFO  Log:40 - The UploadAuctionNotice.properties files are read from Locators directory
+2019-08-28 15:37:22 INFO  Log:40 - The VesselDetails.properties files are read from Locators directory
+2019-08-28 15:37:22 INFO  Log:40 - The AddAuctionData.properties files are read from TestData directory
+2019-08-28 15:37:22 INFO  Log:40 - The AuctionData.properties files are read from TestData directory
+2019-08-28 15:37:22 INFO  Log:40 - The Logindata.properties files are read from TestData directory
+2019-08-28 15:37:22 INFO  Log:40 - The VesselData.properties files are read from TestData directory
+2019-08-28 15:37:22 INFO  Log:40 - ******************************************************************
+2019-08-28 15:37:22 INFO  Log:40 - The test should be performed at : Chrome Browser. 
+2019-08-28 15:37:22 INFO  Log:40 - ******************************************************************
+2019-08-28 15:37:29 INFO  Log:40 - *********************************************************************
+2019-08-28 15:37:29 INFO  Log:40 - Navigating to the URL : https://newuat.buyjunction.in/
+2019-08-28 15:37:29 INFO  Log:40 - *********************************************************************
+2019-08-28 15:37:31 INFO  Log:24 - navigate_To_Live_Bidding_Page
+2019-08-28 15:37:33 INFO  Log:40 - We are going to kickout other user
+2019-08-28 15:37:36 INFO  Log:40 - Bid(s) element found and hovered
+2019-08-28 15:37:38 INFO  Log:40 - Yeppeee.....Live auction button is displaying....let's click
+2019-08-28 15:37:49 INFO  Log:40 - java.math.BigDecimal cannot be cast to java.util.List
+2019-08-28 15:37:52 INFO  Log:40 - no such element: Unable to locate element: {"method":"xpath","selector":"//iframe[@name='viewAuctions']"}
+  (Session info: chrome=76.0.3809.132)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.5', revision: 'd54ebd709a', time: '2018-11-06T11:42:16'
+System info: host: 'MJLT-1363', ip: '172.16.16.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.132, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\SOMNAT~1.CHA\AppDa...}, goog:chromeOptions: {debuggerAddress: localhost:64319}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: d65388c83633d312fa14242ff86ac6e8
+*** Element info: {Using=xpath, value=//iframe[@name='viewAuctions']}
+2019-08-28 15:37:56 INFO  Log:40 - no such element: Unable to locate element: {"method":"xpath","selector":"//iframe[@name='viewAuctions']"}
+  (Session info: chrome=76.0.3809.132)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.5', revision: 'd54ebd709a', time: '2018-11-06T11:42:16'
+System info: host: 'MJLT-1363', ip: '172.16.16.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.132, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\SOMNAT~1.CHA\AppDa...}, goog:chromeOptions: {debuggerAddress: localhost:64319}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: d65388c83633d312fa14242ff86ac6e8
+*** Element info: {Using=xpath, value=//iframe[@name='viewAuctions']}
+2019-08-28 15:37:59 INFO  Log:40 - no such element: Unable to locate element: {"method":"xpath","selector":"//iframe[@name='viewAuctions']"}
+  (Session info: chrome=76.0.3809.132)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.5', revision: 'd54ebd709a', time: '2018-11-06T11:42:16'
+System info: host: 'MJLT-1363', ip: '172.16.16.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.132, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\SOMNAT~1.CHA\AppDa...}, goog:chromeOptions: {debuggerAddress: localhost:64319}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: d65388c83633d312fa14242ff86ac6e8
+*** Element info: {Using=xpath, value=//iframe[@name='viewAuctions']}
+2019-08-28 15:38:03 INFO  Log:40 - no such element: Unable to locate element: {"method":"xpath","selector":"//iframe[@name='viewAuctions']"}
+  (Session info: chrome=76.0.3809.132)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.5', revision: 'd54ebd709a', time: '2018-11-06T11:42:16'
+System info: host: 'MJLT-1363', ip: '172.16.16.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.132, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\SOMNAT~1.CHA\AppDa...}, goog:chromeOptions: {debuggerAddress: localhost:64319}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: d65388c83633d312fa14242ff86ac6e8
+*** Element info: {Using=xpath, value=//iframe[@name='viewAuctions']}
+2019-08-28 15:38:06 INFO  Log:40 - no such element: Unable to locate element: {"method":"xpath","selector":"//iframe[@name='viewAuctions']"}
+  (Session info: chrome=76.0.3809.132)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.5', revision: 'd54ebd709a', time: '2018-11-06T11:42:16'
+System info: host: 'MJLT-1363', ip: '172.16.16.216', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.132, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: C:\Users\SOMNAT~1.CHA\AppDa...}, goog:chromeOptions: {debuggerAddress: localhost:64319}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: d65388c83633d312fa14242ff86ac6e8
+*** Element info: {Using=xpath, value=//iframe[@name='viewAuctions']}

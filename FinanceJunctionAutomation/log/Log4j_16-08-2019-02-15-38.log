@@ -1,0 +1,41 @@
+2019-08-16 14:15:38 INFO  Log:40 - The BankAccount.properties files are read from Locators directory
+2019-08-16 14:15:38 INFO  Log:40 - The BankMap.properties files are read from Locators directory
+2019-08-16 14:15:38 INFO  Log:40 - The Branch.properties files are read from Locators directory
+2019-08-16 14:15:38 INFO  Log:40 - The EPSUser.properties files are read from Locators directory
+2019-08-16 14:15:38 INFO  Log:40 - The FinanceRequest.properties files are read from Locators directory
+2019-08-16 14:15:38 INFO  Log:40 - The Home.properties files are read from Locators directory
+2019-08-16 14:15:38 INFO  Log:40 - The Login.properties files are read from Locators directory
+2019-08-16 14:15:38 INFO  Log:40 - The MetalUser.properties files are read from Locators directory
+2019-08-16 14:15:38 INFO  Log:40 - The Organization.properties files are read from Locators directory
+2019-08-16 14:15:38 INFO  Log:40 - The Report.properties files are read from Locators directory
+2019-08-16 14:15:38 INFO  Log:40 - The User.properties files are read from Locators directory
+2019-08-16 14:15:38 INFO  Log:40 - The ViewFinanceRequest.properties files are read from Locators directory
+2019-08-16 14:15:38 INFO  Log:40 - The AddBranchData.properties files are read from TestData directory
+2019-08-16 14:15:38 INFO  Log:40 - The AddOrganizationData.properties files are read from TestData directory
+2019-08-16 14:15:38 INFO  Log:40 - The AddUserData.properties files are read from TestData directory
+2019-08-16 14:15:38 INFO  Log:40 - The EpsData.properties files are read from TestData directory
+2019-08-16 14:15:38 INFO  Log:40 - The Logindata.properties files are read from TestData directory
+2019-08-16 14:15:38 INFO  Log:40 - The MapData.properties files are read from TestData directory
+2019-08-16 14:15:38 INFO  Log:40 - The MetalData.properties files are read from TestData directory
+2019-08-16 14:15:38 INFO  Log:40 - The ReportData.properties files are read from TestData directory
+2019-08-16 14:15:38 INFO  Log:40 - ******************************************************************
+2019-08-16 14:15:38 INFO  Log:40 - The test should be performed at : Chrome Browser. 
+2019-08-16 14:15:38 INFO  Log:40 - ******************************************************************
+2019-08-16 14:15:46 INFO  Log:40 - *********************************************************************
+2019-08-16 14:15:46 INFO  Log:40 - Navigating to the URL : https://service.financejunction.in/FinMkt/login
+2019-08-16 14:15:46 INFO  Log:40 - *********************************************************************
+2019-08-16 14:16:38 INFO  Log:40 - We are going to kickout other user
+2019-08-16 14:17:15 INFO  Log:24 - Start testing
+2019-08-16 14:17:15 INFO  Log:40 - The username get entered
+2019-08-16 14:17:17 INFO  Log:40 - Pasword get Entered
+2019-08-16 14:18:09 INFO  Log:40 - We are going to kickout other user
+2019-08-16 14:18:49 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2019-08-16 14:18:49 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2019-08-16 14:18:49 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-08-16 14:18:49 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-08-16 14:18:49 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/somnath.chatterjee1/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-08-16 14:18:49 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2019-08-16 14:18:49 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2019-08-16 14:18:49 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-08-16 14:18:49 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-08-16 14:18:49 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/somnath.chatterjee1/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
